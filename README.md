@@ -16,7 +16,7 @@ da internet e manténdo meus repositórios atualizados conforme vou resolvendo.
 <div>
   <a href="https://github.com/TascaXD">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TascaXD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TascaXD&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
 
 
