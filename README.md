@@ -9,16 +9,17 @@ da internet e manténdo meus repositórios atualizados conforme vou resolvendo.
 
 <div class="Tec">
 <h3>Tecnologias que estudo:</h3>
+
 <img alt="Tasca-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Tasca-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="Tasca-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
   <a href="https://github.com/TascaXD">
+<br>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TascaXD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
-
 
 <a href = "mailto:tascaxd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-tasca-76511b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
