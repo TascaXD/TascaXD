@@ -4,7 +4,8 @@
 - Atualmente trabalho no setor de almoxarifado/logística e sou responsável pelo estoque da filial de uma empresa;
 - Atualmente estudo Front-end;
 - Procuro aprendizado e experiências no mundo da programação;
-- Pretendo resolver o máximo de desafios e problemas possívels para poder crescer e ajudar a comunidade de programação.
+- Pretendo resolver o máximo de desafios e problemas possívels para poder crescer e ajudar a comunidade de programação, por agora, estou resolvendo alguns desafios
+da internet e manténdo meus repositórios atualizados conforme vou resolvendo.
 
 <div class="Tec">
 <h3>Tecnologias que estudo:</h3>
