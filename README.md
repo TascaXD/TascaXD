@@ -13,6 +13,7 @@ da internet e manténdo meus repositórios atualizados conforme vou resolvendo.
 <img alt="Tasca-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Tasca-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="Tasca-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="ReactJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <div>
   <a href="https://github.com/TascaXD">
